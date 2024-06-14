@@ -1,0 +1,9 @@
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\bin\Debug\netstandard2.1\BackendTest.DAL.deps.json
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\bin\Debug\netstandard2.1\BackendTest.DAL.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\bin\Debug\netstandard2.1\BackendTest.DAL.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\obj\Debug\netstandard2.1\BackendTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\obj\Debug\netstandard2.1\BackendTest.DAL.AssemblyInfoInputs.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\obj\Debug\netstandard2.1\BackendTest.DAL.AssemblyInfo.cs
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\obj\Debug\netstandard2.1\BackendTest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\obj\Debug\netstandard2.1\BackendTest.DAL.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest.DAL\obj\Debug\netstandard2.1\BackendTest.DAL.pdb

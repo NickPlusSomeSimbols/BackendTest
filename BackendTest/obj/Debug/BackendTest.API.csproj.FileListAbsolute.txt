@@ -1,0 +1,12 @@
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.exe
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\BackendTest.exe.config
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\BackendTest.exe
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\BackendTest.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\ClassLibrary2.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\ClassLibrary3.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\ClassLibrary2.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\ClassLibrary3.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.API.csproj.AssemblyReference.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.API.csproj.CoreCompileInputs.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.API.csproj.CopyComplete

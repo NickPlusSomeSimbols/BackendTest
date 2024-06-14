@@ -1,0 +1,7 @@
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\BackendTest.exe.config
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\BackendTest.exe
+C:\Users\pooll\source\repos\BackendTest\BackendTest\bin\Debug\BackendTest.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.csproj.AssemblyReference.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.csproj.CoreCompileInputs.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.exe
+C:\Users\pooll\source\repos\BackendTest\BackendTest\obj\Debug\BackendTest.pdb

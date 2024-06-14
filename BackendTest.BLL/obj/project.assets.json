@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "BackendTest.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/BackendTest.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BackendTest.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackendTest.DAL/1.0.0": {
+      "type": "project",
+      "path": "../BackendTest.DAL/BackendTest.DAL.csproj",
+      "msbuildProject": "../BackendTest.DAL/BackendTest.DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "BackendTest.DAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pooll\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pooll\\source\\repos\\BackendTest\\BackendTest.BLL\\BackendTest.BLL.csproj",
+      "projectName": "BackendTest.BLL",
+      "projectPath": "C:\\Users\\pooll\\source\\repos\\BackendTest\\BackendTest.BLL\\BackendTest.BLL.csproj",
+      "packagesPath": "C:\\Users\\pooll\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pooll\\source\\repos\\BackendTest\\BackendTest.BLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pooll\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\pooll\\source\\repos\\BackendTest\\BackendTest.DAL\\BackendTest.DAL.csproj": {
+              "projectPath": "C:\\Users\\pooll\\source\\repos\\BackendTest\\BackendTest.DAL\\BackendTest.DAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

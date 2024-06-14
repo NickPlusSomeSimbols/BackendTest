@@ -1,0 +1,13 @@
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.csproj.AssemblyReference.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.AssemblyInfoInputs.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.AssemblyInfo.cs
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.csproj.CoreCompileInputs.cache
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\bin\Debug\netstandard2.1\BackendTest.BLL.deps.json
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\bin\Debug\netstandard2.1\BackendTest.BLL.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\bin\Debug\netstandard2.1\BackendTest.BLL.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\bin\Debug\netstandard2.1\BackendTest.DAL.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\bin\Debug\netstandard2.1\BackendTest.DAL.pdb
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.csproj.CopyComplete
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.dll
+C:\Users\pooll\source\repos\BackendTest\BackendTest.BLL\obj\Debug\netstandard2.1\BackendTest.BLL.pdb
